@@ -1,3 +1,2 @@
-# sec-notes-y
-Computer-related self-study notes
+# Computer-related self-study notes
 Linux command, Network Basics, Local vulnerable lab,  
